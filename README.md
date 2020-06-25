@@ -8,3 +8,7 @@ for inspiration
 https://github.com/Swizec/useAuth
 
 https://github.com/auth0/auth0-react
+
+https://github.com/iaincollins/next-auth
+
+
